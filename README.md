@@ -2,7 +2,7 @@
       
 
 ## Description
-    An application that can be used to track spending and earnings over time- using mongodb and manifests and service worker to enable offline functioality. 
+    An application that can be used to track spending and earnings over time- using mongodb and manifests and service worker to enable offline functionality. 
 
 ## Table of Content
    
